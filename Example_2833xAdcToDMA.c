@@ -102,7 +102,7 @@ __interrupt void local_DINTCH1_ISR(void);
 void main(void)
 {
     Uint16 i;
-    
+    Uint16 k;
     //
     // Step 1. Initialize System Control:
     // PLL, WatchDog, enable Peripheral Clocks
