@@ -103,6 +103,7 @@ void main(void)
 {
     Uint16 i;
     Uint16 k;
+    Uint16 l;
     //
     // Step 1. Initialize System Control:
     // PLL, WatchDog, enable Peripheral Clocks
